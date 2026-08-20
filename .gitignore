@@ -1,0 +1,25 @@
+# Build artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.dll
+*.log
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug / local generated output
+Debug/
+Release/
+bin/
+obj/
